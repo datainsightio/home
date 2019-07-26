@@ -20,7 +20,7 @@ We are a small group of angel investors based in London investing in early stage
 
 We are ‘hands-on by default’ investors and look to allocate our time as well as capital to all deals to ensure we can maximize the chance of success for all shareholders. If your looking solely for passive investors then we would not be a good fit. 
 
-## Portfolio & Exits.
+## Portfolio and Exits.
 
 We have invested in the following companies since 2016:
 
