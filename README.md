@@ -1,11 +1,11 @@
-Bloomberg Beta Operating Manual
+datainsight.io
 ================
 
 
 
 ## Contents
 
-* [Our creed](#our-creed)
+* [About Us](#about-us)
 * [Our investor, Bloomberg L.P.](#our-investor-bloomberg-lp)
 * [What we believe about the future of work](#what-we-believe-about-the-future-of-work)
 * [What we look for in a startup](#what-we-look-for-in-a-startup)
@@ -14,7 +14,7 @@ Bloomberg Beta Operating Manual
 * [How we support founders](#how-we-support-founders)
 * [Finding us](#finding-us)
 
-## Our creed
+## About Us
 
 We believe work must be more productive, fulfilling, and inclusive. 
 
