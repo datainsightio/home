@@ -6,7 +6,7 @@ datainsight.io
 ## Contents
 
 * [About Us](#about-us)
-* [Portfolio & Exits](#portfolio-&-exits)
+* [Portfolio and Exits](#portfolio-and-exits)
 * [What we believe about the future of work](#what-we-believe-about-the-future-of-work)
 * [What we look for in a startup](#what-we-look-for-in-a-startup)
 * [The deal terms](#the-deal-terms)
@@ -24,9 +24,12 @@ We are ‘hands-on by default’ investors and look to allocate our time as well
 
 We have invested in the following companies since 2016:
 
-[Logical Glue] (https://www.logicalglue.com) - Exited July 2019.
+[Logical Glue](https://www.logicalglue.com) -- Exited July 2019.
+
 Weswap. 
+
 NorthRow. 
+
 Livesmart.
 
 
