@@ -3,8 +3,8 @@ datainsight.io
 
 ## Contents
 
-* [About Us](#about-us)
-* [Portfolio and Exits](#portfolio-and-exits)
+* [About us](#about-us)
+* [Portfolio and exits](#portfolio-and-exits)
 * [What we look for in a startup](#what-we-look-for-in-a-startup)
 * [Contacting us](#contacting-us)
 
@@ -29,11 +29,7 @@ We have invested in the following companies since 2016. In most of them we have 
 
 ## What we look for in a startup
 
-### Founders
-
-Whilst the idea is obviously important we are looking for a founding team that is even greater than the idea itself. We are fully aware that the concept might change (aka pivot) during the early stages so we are looking for traits in the team that give us confidence they can navigate through choppy waters as well as demonsrating complimentatory skillsets. The perfect founding team would be one that combines deep technical prowess with strong business development and sales capabilities.  
-
-### “Themes”
+### Themes
 
 We are currently hot on the following investment themes:
 
@@ -45,11 +41,14 @@ Products to support the move towards digital health.
 
 <...> As A Service.
 
+### Founders
 
-### “Due Dilligence Pack”
+Whilst the idea is obviously important we are looking for a founding team that is even greater than the idea itself. We are fully aware that the concept might change (aka pivot) during the early stages so we are looking for traits in the team that give us confidence they can navigate through choppy waters as well as demonstrating complimentary skillsets. The perfect founding team would be one that combines deep technical prowess with strong business development and sales capabilities.  
 
-Its important that you have a due dillgience Pack ready to send us if your initial investor presentation got us interested. This should, at the very least, include: Full financials since company incorporation as well as a resonable forward looking projections based on assumptions, full detail of previous rounds of funding and cap table. If you have it then a term sheet and shareholders agreement would be good but not critical for initial contact. 
+### “Due Diligence Pack”
+
+Its important that you have a due diligence Pack ready to send us if your initial investor presentation got us interested. This should, at the very least, include: Full financials since company incorporation as well as a reasonable forward looking projections based on assumptions, full detail of previous rounds of funding and cap table. If you have it then a term sheet and shareholders agreement would be good but not critical for initial contact. 
 
 ## Contacting us
 
-If your looking for investment please contact us if you have a demonstrable product or unique IP that you can explain to us without an NDA. If we are interested we will contact you back and arrange a meeting. Our preference is face-to-face at your location or somewhere in London.
+If you’re looking for investment please contact us if you have a demonstrable product or unique IP that you can explain to us without an NDA. If we are interested, we will contact you back and arrange a meeting. Our preference is face-to-face at your location or somewhere in London.
