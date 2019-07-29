@@ -51,4 +51,4 @@ Its important that you have a due diligence Pack ready to send us if your initia
 
 ## Contacting us
 
-If you’re looking for investment please contact us if you have a demonstrable product or unique IP that you can explain to us without an NDA. If we are interested, we will contact you back and arrange a meeting. Our preference is face-to-face at your location or somewhere in London.
+If you’re looking for investment please [contact us](https://forms.gle/2wC1NDSaSNLqEkWm6) if you have a demonstrable product or unique IP that you can explain to us without an NDA. If we are interested, we will contact you back and arrange a meeting. Our preference is face-to-face at your location or somewhere in London.
