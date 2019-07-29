@@ -31,11 +31,20 @@ We have invested in the following companies since 2016. In most of them we have 
 
 ### Founders
 
-Whilst the idea is obviously important we are looking for a founding team that is even greater than the idea itself. We are fully aware that the concept might change (aka pivot) during the early stages so we are looking for traits in the team that give us confidence they can navigate through choppy waters as well as demonsrating complimentatory skillsets. The perfect founding team would be one that combines technical capaobilities with  
+Whilst the idea is obviously important we are looking for a founding team that is even greater than the idea itself. We are fully aware that the concept might change (aka pivot) during the early stages so we are looking for traits in the team that give us confidence they can navigate through choppy waters as well as demonsrating complimentatory skillsets. The perfect founding team would be one that combines deep technical prowess with strong business development and sales capabilities.  
 
 ### “Themes”
 
-We are currently hot on the following investment themes.
+We are currently hot on the following investment themes:
+
+Practical use of machine learning / narrow AI to support or re-engineer existing B2B workflows.
+
+Novel techniques in matching buyers and sellers together to create new marketplaces.
+
+Products to support the move towards digital health.
+
+<...> As A Service.
+
 
 ### “Due Dilligence Pack”
 
