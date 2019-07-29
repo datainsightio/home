@@ -1,8 +1,6 @@
 datainsight.io
 ================
 
-
-
 ## Contents
 
 * [About Us](#about-us)
@@ -18,68 +16,31 @@ We are ‘hands-on by default’ investors and look to allocate our time as well
 
 ## Portfolio and Exits.
 
-We have invested in the following companies since 2016:
+We have invested in the following companies since 2016. In most of them we have invested across multiple rounds.
 
-[Logical Glue](https://www.logicalglue.com) -- Exited July 2019.
+[Logical Glue](https://www.logicalglue.com) -- [Exited July 2019](https://www.temenos.com/en/news-and-events/news/2019/july/temenos-acquires-xai-platform/)
 
-Weswap. 
+[Weswap](https://www.weswap.com) -- Invested 
 
-NorthRow. 
+[NorthRow](https://www.northrow.com) -- Invested
 
-Livesmart.
+[Livesmart](https://www.getlivesmart.com) -- Invested
 
 
 ## What we look for in a startup
 
-
-
 ### Founders
 
-We look for a reason to believe a founding team is extraordinary. Not that they have the perfect skills or experiences to match the business they want to build (which is where the “team” slide in the deck tends to focus), but that they have the capacity for greatness.
+Whilst the idea is obviously important we are looking for a founding team that is even greater than the idea itself. We are fully aware that the concept might change (aka pivot) during the early stages so we are looking for traits in the team that give us confidence they can navigate through choppy waters as well as demonsrating complimentatory skillsets. The perfect founding team would be one that combines technical capaobilities with  
 
 ### “Themes”
 
+We are currently hot on the following investment themes.
 
-### “The Deck”
+### “Due Dilligence Pack”
 
-### In-person meetings
-
-## The deal terms
-### Rights we want
-### The numbers
-### Other investors
-
-
-### Negotiating
-
-### Following on
-
-
-### “Standard terms”
-
-
-## Our “products,” or, how we work with founders
-
-
-### “Seed”
-
-
-### How we like to communicate with you
-
-It varies. In some cases most of our communication is by email and chat, others where we do a regularly-scheduled call, others where we meet in person from time to time -- it just depends on what the founder wants. At minimum, we generally like to know the number one thing we can help a company with at a given time so we can focus on that.
-
-We appreciate getting regular investment updates (e.g., a monthly email) from companies we back, since it creates a background of good understanding that helps us help you. In practice, about two-thirds of companies we back are in this habit.
-
-What makes a good written update for investors?
-* A summary (sentence!) that helps us understand how you're doing at trying to accomplish the most important thing for your startup right now -- usually we think in terms of [the risks you're trying to address](https://also.roybahat.com/instead-of-a-business-plan-write-a-thesis-plan-6de9de59daaf)
-* Usually, that means the one operational metric you believe tells the story of where you are, and how that metric changed since last time you communicated it (and relative to your expectations)
-* What you’re most excited about now
-* How you’re doing financially (cash left, burn)
-* Team additions or changes
-* Where you want help from us!
-
-Here is a [sample anonymized update](https://docs.google.com/document/d/1xykbjs0KnhdA2qYdvY_jm21QJdS35iETouNNe2nARJA/edit).
+Its important that you have a due dillgience Pack ready to send us if your initial investor presentation got us interested. This should, at the very least, include: Full financials since company incorporation as well as a resonable forward looking projections based on assumptions, full detail of previous rounds of funding and cap table. If you have it then a term sheet and shareholders agreement would be good but not critical for initial contact. 
 
 ## Contacting us
 
-If your looking for investment please only contact us if you have a demonstrable product or unique IP that you can explain to us without an NDA. If we are interested we will contact you back and arrange a meeting. Our preference is face-to-face at your location or somewhere in London, we always buy the coffees :)
+If your looking for investment please contact us if you have a demonstrable product or unique IP that you can explain to us without an NDA. If we are interested we will contact you back and arrange a meeting. Our preference is face-to-face at your location or somewhere in London.
