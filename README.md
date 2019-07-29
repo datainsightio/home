@@ -43,9 +43,9 @@ Products to support the move towards digital health.
 
 ### Founders
 
-Whilst the idea is obviously important we are looking for a founding team that is even greater than the idea itself. We are fully aware that the concept might change (aka pivot) during the early stages so we are looking for traits in the team that give us confidence they can navigate through choppy waters as well as demonstrating complimentary skillsets. The perfect founding team would be one that combines deep technical prowess with strong business development and sales capabilities.  
+Whilst the idea is obviously important we are looking for a founding team that is even greater than the idea itself. We are fully aware that the concept might change (aka pivot) during the early stages so we are looking for traits in the team that give us confidence they can navigate through difficult times as well as demonstrating complimentary skillsets across team memebers. The perfect founding team would be one that combines deep technical prowess, strong business development /  sales capabilities along with understanding of how to operationally run a business.  
 
-### “Due Diligence Pack”
+### Due Diligence Pack
 
 Its important that you have a due diligence Pack ready to send us if your initial investor presentation got us interested. This should, at the very least, include: Full financials since company incorporation as well as a reasonable forward looking projections based on assumptions, full detail of previous rounds of funding and cap table. If you have it then a term sheet and shareholders agreement would be good but not critical for initial contact. 
 
