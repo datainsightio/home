@@ -31,11 +31,11 @@ We have invested in the following companies since 2016. In most of them we have 
 
 ### Themes
 
-We are currently hot on the following investment themes:
+We are currently interested in businesses that are aligned to one or many of the following themes:
 
-Practical use of machine learning / narrow AI to support or re-engineer existing B2B workflows.
+Use of machine learning ('narrow AI') to develop new or greatly enhance existing B2B products.
 
-Novel techniques in matching buyers and sellers together to create new marketplaces.
+Novel techniques in matching buyers and sellers together in marketplaces.
 
 Products to support the move towards digital health.
 
