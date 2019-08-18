@@ -20,7 +20,7 @@ We have invested in the following companies since 2016. In most of them we have 
 
 [Logical Glue](https://www.logicalglue.com) -- [Exited](https://www.temenos.com/en/news-and-events/news/2019/july/temenos-acquires-xai-platform/)
 
-GetIceberg -- [Exited](https://www.crunchbase.com/acquisition/keyedin-solutions-acquires-iceberg--34890621)
+[Iceberg](https://web.archive.org/web/20130501025130/http://geticeberg.com/) -- [Exited](https://www.crunchbase.com/acquisition/keyedin-solutions-acquires-iceberg--34890621)
 
 [Weswap](https://www.weswap.com) -- Invested 
 
