@@ -16,7 +16,7 @@ We are ‘hands-on by default’ investors and look to allocate our time as well
 
 ## Portfolio and Exits.
 
-We have invested in the following companies since 2016. In most of them we have invested across multiple rounds.
+We have invested or exited in the following companies. 
 
 [Logical Glue](https://www.logicalglue.com) -- [Exited](https://www.temenos.com/en/news-and-events/news/2019/july/temenos-acquires-xai-platform/)
 
