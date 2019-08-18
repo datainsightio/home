@@ -18,7 +18,9 @@ We are ‘hands-on by default’ investors and look to allocate our time as well
 
 We have invested in the following companies since 2016. In most of them we have invested across multiple rounds.
 
-[Logical Glue](https://www.logicalglue.com) -- [Exited July 2019](https://www.temenos.com/en/news-and-events/news/2019/july/temenos-acquires-xai-platform/)
+[Logical Glue](https://www.logicalglue.com) -- [Exited](https://www.temenos.com/en/news-and-events/news/2019/july/temenos-acquires-xai-platform/)
+
+GetIceberg -- [Exited](https://www.crunchbase.com/acquisition/keyedin-solutions-acquires-iceberg--34890621)
 
 [Weswap](https://www.weswap.com) -- Invested 
 
