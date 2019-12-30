@@ -54,3 +54,8 @@ Its important that you have a due diligence Pack ready to send us if your initia
 ## Contacting us
 
 If you’re looking for investment please [contact us](https://forms.gle/2wC1NDSaSNLqEkWm6) if you have a demonstrable product or unique IP that you can explain to us without an NDA. If we are interested, we will contact you back and arrange a meeting. Our preference is face-to-face at your location or somewhere in London.
+
+## Wait, your website is on GitHub!?
+
+We get a fair amount of reaction to having our site on GitHub, frankly were happy this is the case, good or bad (and its largely good so far) getting a reaction to something in an age where we are plugged into do a digital drip for most of our waking hours is difficult as start-ups know. 
+For us it was easy choice because a) We love GitHub for finding solutions to problems that can be solved with software and b) The minimalist style along with simplicity to edit matches our style of working.
