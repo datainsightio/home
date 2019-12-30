@@ -39,9 +39,9 @@ Use of machine learning ('narrow AI') to develop new or greatly enhance existing
 
 Novel techniques in matching buyers and sellers together in marketplaces.
 
-Products to support the move towards digital health.
+Products to support the move towards digital self-service health.
 
-<...> As A Service.
+Anything that automates tasks in service or industry sectors. 
 
 ### Founders
 
