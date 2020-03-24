@@ -1,4 +1,4 @@
-datainsight.io
+![datainsight.io](https://github.com/datainsightio/home/blob/master/orange-logo.PNG?raw=true)
 ================
 
 ## Contents
