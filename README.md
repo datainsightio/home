@@ -60,4 +60,4 @@ If you’re looking for investment please [contact us](https://forms.gle/2wC1NDS
 
 We are official members of the AWS Activate programe and are able to administer $10,000 worth of grants to use on the AWS Platform to elgible startups. AWS Activate provides startups with low cost, easy-to-use infrastructure needed to scale and grow their businesses. With AWS Activate, startups get access to the resources they need to quickly get started on AWS - including credits, technical support, and training.
 
-![datainsight.io](https://github.com/datainsightio/home/blob/master/aws-activate.png?raw=true)
+![datainsight.io](https://github.com/datainsightio/home/blob/master/aws-activate-1.png?raw=true)
