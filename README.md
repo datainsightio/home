@@ -56,6 +56,8 @@ Its important that you have a due diligence Pack ready to send us if your initia
 If you’re looking for investment please [contact us](https://forms.gle/2wC1NDSaSNLqEkWm6) if you have a demonstrable product or unique IP that you can explain to us without an NDA. If we are interested, we will contact you back and arrange a meeting. Our preference is face-to-face at your location or somewhere in London.
 
 
+
+
 ![AWS Activate](https://github.com/datainsightio/home/blob/master/aws-activate-1.png?raw=true)
 
 We are official members of the AWS Activate programe and are able to administer $10,000 worth of grants to use on the AWS Platform to elgible startups. AWS Activate provides startups with low cost, easy-to-use infrastructure needed to scale and grow their businesses. With AWS Activate, startups get access to the resources they need to quickly get started on AWS - including credits, technical support, and training.
