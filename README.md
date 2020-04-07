@@ -35,13 +35,15 @@ We have invested or exited in the following companies.
 
 We are currently interested in businesses that are aligned to one or many of the following themes:
 
-Use of machine learning ('narrow AI') to develop new or greatly enhance existing B2B products.
+Use of machine learning ('narrow AI') to develop new or enhance existing B2B offerings.
 
 Novel techniques in matching buyers and sellers together in marketplaces.
 
 Products to support the move towards digital self-service health.
 
 Anything that automates tasks in service or industry sectors. 
+
+Non-Gaming applications for Virtual / Augmented Reality.
 
 ### Founders
 
