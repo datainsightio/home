@@ -28,6 +28,8 @@ We have invested or exited in the following companies.
 
 [Livesmart](https://www.getlivesmart.com) -- Invested
 
+[Kluster](https://www.kluster.com) -- Invested
+
 
 ## What we look for in a startup
 
