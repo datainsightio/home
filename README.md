@@ -35,17 +35,14 @@ We have invested or exited in the following companies.
 
 ### Themes
 
-We are currently interested in businesses that are aligned to one or many of the following themes:
+We are currently interested in businesses that are aligned to one or many of the following themes in this order of priority:
+
+Automation: Software or Hardware (Robotics) that can automate a task or make a human worker more productive.
 
 Use of machine learning ('narrow AI') to develop new or enhance existing B2B offerings.
 
-Novel techniques in matching buyers and sellers together in marketplaces.
+Enterprise software using XR Technologies.
 
-Products to support the move towards digital self-service health.
-
-Anything that automates tasks in service or industry sectors. 
-
-Non-Gaming applications for Virtual / Augmented Reality.
 
 ### Founders
 
