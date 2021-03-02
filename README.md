@@ -37,11 +37,13 @@ We have invested or exited in the following companies.
 
 We are currently interested in businesses that are aligned to one or many of the following themes in this order of priority:
 
-Automation: Software or Hardware (Robotics) that can automate a task or make a human worker more productive.
+Automation: Software or Hardware (Robotics) that can automate tasks making the human worker much more productive.
 
-Use of machine learning ('narrow AI') to develop new or enhance existing B2B offerings.
+DeFi: Companies looking to re-write the playbook on capital markets through decentralised finance. 
 
-Enterprise software using XR Technologies.
+AI: Use of machine learning ('narrow AI') to develop new or enhance existing B2B offerings.
+
+XR: Application of Virtual or Augmented reality into B2B.
 
 
 ### Founders
