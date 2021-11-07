@@ -22,8 +22,6 @@ We have invested or exited in the following companies.
 
 [Iceberg](https://web.archive.org/web/20130501025130/http://geticeberg.com/) -- [Exited](https://www.crunchbase.com/acquisition/keyedin-solutions-acquires-iceberg--34890621)
 
-[Weswap](https://www.weswap.com) -- Invested 
-
 [NorthRow](https://www.northrow.com) -- Invested
 
 [Livesmart](https://www.getlivesmart.com) -- Invested
@@ -39,7 +37,7 @@ We are currently interested in businesses that are aligned to one or many of the
 
 Automation: Software or Hardware (Robotics) that can automate tasks making the human worker much more productive.
 
-DeFi: Companies looking to re-write the playbook on capital markets through decentralised finance. 
+DeFi: Companies looking to re-write the playbook on capital markets through decentralised finance or developing new forms of organisation co-ordination through DAOs.
 
 AI: Use of machine learning ('narrow AI') to develop new or enhance existing B2B offerings.
 
