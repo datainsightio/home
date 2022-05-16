@@ -28,6 +28,8 @@ We have invested or exited in the following companies.
 
 [Kluster](https://www.kluster.com) -- Invested
 
+[Aistetic](https://aistetic.com/) -- Invested
+
 
 ## What we look for in a startup
 
