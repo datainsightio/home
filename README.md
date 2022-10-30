@@ -30,6 +30,8 @@ We have invested or exited in the following companies.
 
 [Aistetic](https://aistetic.com/) -- Invested
 
+[Extend Robotics](https://www.extendrobotics.com/) -- Invested
+
 
 ## What we look for in a startup
 
